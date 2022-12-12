@@ -1,5 +1,10 @@
 # openai-cli
+
+```bash
+export OPENAI_API_KEY={API_KEY}
 ```
+
+```bash
 $ cargo run
 
 > Ethereumの作者は誰？
