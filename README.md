@@ -6,6 +6,8 @@ export OPENAI_API_KEY={API_KEY}
 
 ```bash
 $ cargo run
+    Finished dev [unoptimized + debuginfo] target(s) in 0.14s
+     Running `target/debug/openai-cli`
 
 > Ethereumの作者は誰？
 > OpenAI 🤖
